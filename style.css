@@ -1,0 +1,15 @@
+header {
+  padding-left: 100px;
+}
+p {
+  background-color:red;
+}
+em {
+  color: blue;
+}
+header {
+  text-align: left; 
+}
+header h1 {
+  font-size: 50px;
+}
